@@ -1,16 +1,17 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import { Footer, Logo } from "./components";
+import React from "react"
+import { Footer } from "./components/Footer"
+import { Logo } from "./components/Logo"
+import { Main } from "./components/Main"
+import "./App.css"
 
-function App() {
+export const App = () => {
   return (
-    <div className="App">
+    <div className="app">
       <Logo />
-      <main className="app-content" />
+      <main className="app-content">
+        <Main />
+      </main>
       <Footer />
     </div>
-  );
+  )
 }
-
-export default App;
