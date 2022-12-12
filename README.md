@@ -2,7 +2,7 @@
 
 ## This Project Built with React Js, Typescript and Soundfont.
 
-### 🔗[Link](https://pianics.netlify.app/)
+### 🔗[Demo Link](https://pianics.netlify.app/)
 
 ### Stack
 
