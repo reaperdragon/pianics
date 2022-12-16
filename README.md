@@ -41,8 +41,6 @@ Let's Run this command for dev
 
 ```shell
 npm start
---or--
-yarn dev
 ```
 
 ## Screenshot
