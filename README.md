@@ -26,7 +26,7 @@ Now It will be available in GitHub Account.
 - Clone this repo with url
 
 ```shell
-git clone https://github.com/Aakrut/Pianics
+git clone https://github.com/Aakrut/pianics
 ```
 
 ##### Setup
