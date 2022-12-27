@@ -1,7 +1,5 @@
 # Pianics 🎹
 
-## This Project Built with React Js, Typescript and Soundfont.
-
 ### 🔗[Demo Link](https://pianics.netlify.app/)
 
 ### Stack
@@ -45,4 +43,5 @@ npm start
 
 ## Screenshot
 
-![Pianics](https://user-images.githubusercontent.com/67114280/206854051-fd4187df-cc45-42a6-bd83-7ae0d541961c.png)
+![Pianics Page](https://user-images.githubusercontent.com/67114280/209668879-bbb035e6-0488-4190-ace6-58d1bdc6bfa2.png)
+
