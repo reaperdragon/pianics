@@ -11,14 +11,6 @@
 
 ### Installation
 
-####  Fork The Repo 
-
-Click on the Right Side of the Top Bar to After the Watch button. <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="120px" />
-
-Now It will be available in GitHub Account.
-
-#### OR
-
 #### Clone
 
 - Clone this repo with url
@@ -28,8 +20,6 @@ git clone https://github.com/Aakrut/pianics
 ```
 
 ##### Setup
-
-> Install npm dependencies using npm install
 
 ```shell
 cd pianics && npm install
