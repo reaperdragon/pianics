@@ -13,7 +13,7 @@
 
 #### Clone
 
-- Clone this repo with url
+Clone this repo with url
 
 ```shell
 git clone https://github.com/Aakrut/pianics
