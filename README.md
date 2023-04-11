@@ -1,7 +1,5 @@
 # Pianics 🎹
 
-### 🔗[Demo Link](https://pianics.netlify.app/)
-
 ### Stack
 
 - Language: [TypeScript](https://www.typescriptlang.org/)
