@@ -3,7 +3,7 @@
 ### Stack
 
 - Language: [TypeScript](https://www.typescriptlang.org/)
-- Frontend : [React Js](https://reactjs.org/)
+- Frontend : [React Js](https://react.dev/)
 - Player: [Soundfont](https://github.com/danigb/soundfont-player)
 - Fonts : [Google Fonts](https://fonts.google.com/)
 
