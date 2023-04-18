@@ -9,7 +9,9 @@
 
 ### Installation
 
-#### Clone
+#### Setup
+
+##### Clone Repo
 
 Clone this repo with url
 
@@ -17,7 +19,7 @@ Clone this repo with url
 git clone https://github.com/Aakrut/pianics
 ```
 
-##### Setup
+
 
 ```shell
 cd pianics && npm install
